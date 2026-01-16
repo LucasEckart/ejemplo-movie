@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\data\\moviedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\data\\moviedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|c:\\users\\user\\onedrive\\documentos\\lucas\\ejemplo-movie\\movie-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9434B5A-DC94-31DA-5DB2-0728AE43F885}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Favorito.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:57:42.404Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Genero.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:44:36.303Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Data\\MovieDbContextFactory.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Data\\MovieDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Data\\MovieDbContextFactory.cs",
+              "RelativeToolTip": "movie-mvc\\Data\\MovieDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T13:11:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "movie-mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\appsettings.json",
+              "RelativeToolTip": "movie-mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T12:35:16.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Program.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Program.cs",
+              "RelativeToolTip": "movie-mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:32:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Review.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:51:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Data\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Data\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Data\\MovieDbContext.cs",
+              "RelativeToolTip": "movie-mvc\\Data\\MovieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:17:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Pelicula.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Pelicula.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:47:59.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Usuario.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:46:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plataforma.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Plataforma.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Plataforma.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documentos\\lucas\\ejemplo-movie\\movie-mvc\\Models\\Plataforma.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Plataforma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:45:42.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
